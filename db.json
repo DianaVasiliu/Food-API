@@ -7,7 +7,7 @@
             "spicy": false,
             "vegetarian": true,
             "price": 17.0,
-            "image": "https://previews.dropbox.com/p/thumb/ABdA-jw32ZyMn1QBwVWcvpoPjXeKSHai5XDPqhce-auRgRRlfg9mbz9odTUyAJP5j1mg2t6KhdQP3wjyC6TUA8_-pRuAK_y-DWmQUg1uNJcEQBbf267LkBW5RbSqHsuFuCRu7dly5okXjDZow4EvSEG6KTi95gh1QHFb7qdtSbY0HWE55lX47dzhBJqaZ_cazilJkFjtPnzPQioYwniPEevJRMVHCdHJc_xNfvy2T27fNHCh4xB_m9H-DJLPUXrjRTN-6pGc771XTm7p2gewmQWNJlgz3Cz1LvIR7jfiWTMNgf7mFUE32KzI_NlIWoLAD-VFmYAnSMBZDmJgqv9F4HgSf0VdaHE5mOUm1dfkHu6qBBD7QiRC8WzC7LG2HNae0Bs/p.jpeg"
+            "image": "https://i.imgur.com/8B8YLOo.jpg"
         },
         {
             "id": 1,
@@ -16,7 +16,7 @@
             "spicy": false,
             "vegetarian": false,
             "price": 20.0,
-            "image": "https://previews.dropbox.com/p/thumb/ABdmZPAoJ1wD0se-mRjM-zbcLn_MKcaQnnqCzMy32ppdlQtR4QdBCrR5I35wrslT6RN0bNn9_xoKuHGOqk30daHDbcq89sHwrOaIa7-qZKxFl96dLm4LaGGWkRTcZERPU1G_JItMS8YY6XcIKz_losIUphca-5vPo2MxicUnHsT7NsDbBA-J6zqw0Ecg1QHLAgyVVXLqSpJDaaLTbRs1MNLuKGaESXbGy8t7y-XY_xyKMWsYbBlc4Q7Danp8UOae2PDTvn7k6Ebm6_bFeMqyQ7XIPq46RMWedSm4WKMzzTF49P2tGmS6wqOks-mHi6RWbMiO3Dpaq6LsBdKc1c5GzOvCcDJjtmwRxKKfDe1qRIxkRkIl9UgTqDQJPUaYKgYJIf0/p.jpeg"
+            "image": "https://i.imgur.com/OHHctnf.jpg"
         },
         {
             "id": 2,
@@ -31,7 +31,7 @@
             "spicy": false,
             "vegetarian": false,
             "price": 25.75,
-            "image": "https://previews.dropbox.com/p/thumb/ABdbLQnDVAqNDTPb1gqCXo6veAp6CY2ZQYi4CEe4desp1keL-D_LpQ9Z7sh04eDkLVgV0klWumUj85dQyMajgdIbi2zNdhRzx-eDnmd-kEGooNoHI34NvaXOpJ53ZV7AqXxot9dfEYYHS8VCYKJzjea3L4O1YZi56i7pWSxO4bj9z-_Vzq-W-0IsWrE5Sla5IuEFEsMI93IfrJgUGBWOttsy0B-BQc_P8g0_F7a6LImAv4mU4PjxhDlkFr1DIgaVOzRdp94GLRDw5PAxtfLE76T92wDTJVfS8gAgqnWP_kTt1c8G5KC9Skn9by0n30c-cdTPQXcCMBG6xJ1DmsYIP2Bw8ciWOYPF1ZfWYYJ7y-ix5om6zMLR7TleFwcFuzfAx4Y/p.png"
+            "image": "https://i.imgur.com/3ZTwCfz.png"
         },
         {
             "id": 3,
@@ -49,7 +49,7 @@
             "spicy": true,
             "vegetarian": false,
             "price": 30.25,
-            "image": "https://previews.dropbox.com/p/thumb/ABev8mmv8hqnT9gNQ8pWB5u4LlwE48IgN-LuGf9aG1eaEkR_6Uv2Vg8qg49OLvH5PVn0PqrNKbDZ1F65O8UJvMd6opuHG7O2u56rvmY5Tgg8wX-nBQpQqWNXCSKGF7EERi5ZRr0B2vjOsm2H5ihS76cos1PohFY56TWUyskou3LtZI4YApzHYtTZEmcIbv9_4Fkdx-2skX363QO0NJvGHdJFUqpgSU6Nf1lTMHXrEdPUMtsJrLkmf5EO6GO4aiW0q-VrN1ZQOpcLI1vhiiiE51Kn0ozkmfd2jWiYgcgWv8E01wzsgFWqRLFjzd7Vt3QMnSuVDL4DCxwoyZizp4XtsZ5kZgleQh4HVy6MfAXWxwh7kIHAiwlVynL7P_PQVh1UzvQ/p.png"
+            "image": "https://i.imgur.com/dyoOLCO.png"
         },
         {
             "id": 4,
@@ -65,7 +65,7 @@
             "spicy": false,
             "vegetarian": false,
             "price": 27.25,
-            "image": "https://previews.dropbox.com/p/thumb/ABeauNZehnEgl5GotNNo_mA8gycAiHyChIvyaZvjzN-8zU8-91oSt5VORJmPsGpwMs93PKC3uzxzXXtfMXlnO5_guKXhA-xCbw1KmCVbkkt-GMJIuGWI3bw-ZX4gkRqkxGzSiQkZHPA9BfoZ4YPvJUlcHS4Fu3zxUNgulxFZLFgS7RFAtaYJKn-JqlZGE5os44JXZsovAYrLzb-TPQHDT-LVHdF1L77EzV0PRwkRGxmGqLjavsyihIPK6nQgU_GaqxPLTqqHYHWDSCUaYtQq71WtxklhOR85iawsJOAQfzfwUNjdUcQMQJtJfZGRlXeU2PLF_J80K5kI8lUvhbi7tjkY3ewDQ_tIinNWw1RFOCOJN0TX3TW75nzLppmGdxGXzeo/p.jpeg"
+            "image": "https://i.imgur.com/wOEuXuV.jpg"
         },
         {
             "id": 5,
@@ -81,7 +81,7 @@
             "spicy": false,
             "vegetarian": false,
             "price": 27.25,
-            "image": "https://previews.dropbox.com/p/thumb/ABfaKN2TF893l6gUnWSYTSro6Jcya7pTC4xiLF6KtqerbnU2WVLYkAaCHSOTtU76kHnwXuI58QQxXh54un7A6EwYr9A9HLV0Tfo1YDmIxILgGtKkYaMe6tm-3-6ytAtnuMHSn0THCWNI2swl-q7Cwj3dRrwGNBc2URwrWNk4wDl-8SG3Ck3pDRk4dPLtew7Ev5Tc_i82aBxY6d3Pm4X9mhJ6hav2XIxEDbsdpsJay54slIvC3uJzO27dsbMZRldI2-u19la4LMyH-BB23_Woa-zL_jh7CBwusZYjjuD8M3-1gGEqRVQuvmNT5yd7M15CZBhH6Xih8Tku9-nWM4pDku8RLUuSDkSl3SU1S2OrWjZU6EpMcHuI1M9c2jFQ9-4YCyY/p.png"
+            "image": "https://i.imgur.com/48Zw4K3.png"
         },
         {
             "id": 6,
@@ -96,7 +96,7 @@
             "spicy": false,
             "vegetarian": true,
             "price": 35.15,
-            "image": "https://previews.dropbox.com/p/thumb/ABc5I5nXxhoz08CI9G15V8i4d5AgWHyzcA-zoLuzT_0hBtHT7NidwjOkz_xyxMVfj4PPITzRainRkPAo7iT887VM3wR0Kn7cCL0slVnQNrT19lTqm2ZWOXYHm_Hdr9fLUHcEb-1fAsXhiVIrtqaqljJ7jhm8QhN_gn0Lkx1IEwhF-SWLZDJZ8UUFe0_wjdwy5OHa_QqCwDjxrvMDmV1oRjPqFHrYceRDSUukZSLx2TotueKZMMufj89w6HYuVNXoyRp8kbg99iWpYInOUh21bnLYU4cjw8Uh0lVVZf_VN-tpXJ3kMpfVPn8c87Vi3v3SGh0QyPfMgo3uuQTNIGwz7WZNC_VrO7pppgOrSm2P-52TdXpd0aDll6akPI9YczSNVHs/p.jpeg"
+            "image": "https://i.imgur.com/MDrTvkI.jpg"
         },
         {
             "id": 7,
@@ -112,7 +112,7 @@
             "spicy": false,
             "vegetarian": false,
             "price": 27.25,
-            "image": "https://previews.dropbox.com/p/thumb/ABc-q5mlkHqLUZ7OOwdc8Cm-E5mnN3UjDMQbUoneiVpWYkfW5LxKpzhhT09XBnEU676-rqFC9_W_1qiR3hthiqHTk4QIop3WPgSUAsthRDdmdYPs5yNQmJDlQThiIsf7muEu9SNXyudppHA2LDAZq63f4D6NXB4wRnyq5qzDbJLsOXOOEJMWuzEYpmWeMxtDQ_D63L9Mij3j9ycug6xmUDK1FXSzAwUKn99PEK2aY7zbk2RRP8sckfQZkthxbbPJBEr_74Lt9mHfucCUvaEQ08fYDIX-Kme-LiIN5E7HoEnAZMP8bBKIda9f4QPxfafThKG8hJJjugqTQBdqzGMvmr66VQeYfuCJ-ODaOZmyJDzNuRTO8OdpSIuIUHb_GmOZshc/p.png"
+            "image": "https://i.imgur.com/0vPtSSO.png"
         },
         {
             "id": 8,
@@ -128,7 +128,7 @@
             "spicy": true,
             "vegetarian": false,
             "price": 20.0,
-            "image": "https://previews.dropbox.com/p/thumb/ABfGieQ1Gz4V8NAwiuI3tj35S9iC2xvzPHFXQMNGJKifvHAsSVk1SPVT_fY8suuy95ph5h0jre5adlPSm6MpfL7Uo43EBgdUSQjLfH_aV3iY7j1zLGI7kjYz5XIndPRuu2J48Ov16VPkckuofswQVz5t6ceo0FJmtzlree3MlwHheewgl_VG9kys52_bdgl4KUCojBDsUi-0EUNgVHXJiqTpmbYWSBiAHhNmXjHK6GXaa0afWJfqpau4VJlfPwILKfdpFrn_quastYR562uyzZg0MW_GoR32RjQaQfq7IhiGxS4cLGMhJ2_5_sQ3k4KNfolIz8UOWmyD5_ynuwhtsmbRam3XZqI_LABDSGSBreWn2IdtIE54kjsfSppJb7-DYJ8/p.png"
+            "image": "https://i.imgur.com/lZtwJgy.png"
         },
         {
             "id": 9,
@@ -143,7 +143,7 @@
             "spicy": false,
             "vegetarian": false,
             "price": 19.8,
-            "image": "https://previews.dropbox.com/p/thumb/ABeZkfRagaT9pIXvJ0nrIOk73t4AekXZt1TEBMtqJ-twwBJsdW0wP-xHJw0XytWkOliuik9nKYpvl6xakl6i4IHbejHEumDN079-MVB7rVVBcW3PMQKPZQl5kVuOTzE6e0ncK8O_7Iza4ChIjxEhcgI0XZ1MG8pmsj5757-hT0GDf6QbFzn-Psvc3F2eSLEz-1ECINlp34-lC1kadXcmHhtLW2OXW_ohUwUzFDkk4wdThD17hvlhcHMbkdPIHCdrAxXX50ofrD-_ypiYQq3OaAR5Q_JZKUNN_4w91KKlkMecqcQKAmyhSUyyGHLMYim1JfZ7oXxpOaL1WnQsj8mBP57vZHchlmRae6wKsL2hRJBrKyNLUfTW4FozKIy6jxVA-rk/p.png"
+            "image": "https://i.imgur.com/SoZu61g.png"
         },
         {
             "id": 10,
@@ -159,7 +159,7 @@
             "spicy": true,
             "vegetarian": false,
             "price": 27.25,
-            "image": "https://previews.dropbox.com/p/thumb/ABeTaAbYEWOCOpCHMdaJ66-IwelfhwjRi3DQNoP6OluAWUmqH1cxa3uXK54N9q_5zojLjDFVbnZNyL4dnQXGwLfYDJjLXgb--jxJTPAbNw7qCRli4SM7-24CD_dY_qeDRr0TCVb8Et-yTivjnBU6E4JPanfRq9chvPp851YRQkPyISSPQj__Sa2DqsvhsrVcx6rUq32LEH3BUKsmajrF7VdK_mdAGSu42ZwXUqhJApyhNTBM-zAH2GKhw2VXpxGwzklCPZpFvDvKS4GRYY-ovVTv_pY-l342iB6xZLeRAlcppC0803fIbKIVYeiAL9ZcSt2yNmkQ1CEmNMSzunU6gYzJqEwp6HzDTgJl7GPlTzmxhAS03Wyf09aDWMnfSHjm4yM/p.png"
+            "image": "https://i.imgur.com/mqTgvgl.png"
         },
         {
             "id": 11,
@@ -174,7 +174,7 @@
             "spicy": true,
             "vegetarian": false,
             "price": 27.25,
-            "image": "https://previews.dropbox.com/p/thumb/ABfym0w32oz-Zj3U1PJ-CPaCODrXm7YWOQHYrRqZGmYC2y-1sHXljFDAGkouO9qmRLKOOgmDB0rbLsOJJ1j9peHLZChAhVBIGY3sKZRmWP24covd1zIcz7C6Bov9zcA7aqsiF-9hWqdki8TxL4ppqPLkzVJploUQzfdV_BXct4VQOa7fNccRttHxi46kCmW9zC8WRhwMYmGfeTqId6d1tTwzdtVg7604hJmnK0bRYzIqqnX5O9NaR8yvs3aTulNgxLNwsPxDQ7o4lIWyH0MqoENejxFbOCxKu3Go6xJMeGH14lhAdpcG61tc57xzMxu8_c-Ot_cOT7AMNL5QoDIm-IVD6DVroLouqOaMWjQKlams5s9Zh4dG7vZaxErlcMlQj0c/p.png"
+            "image": "https://i.imgur.com/k6IGrUd.png"
         },
         {
             "id": 12,
@@ -190,7 +190,7 @@
             "spicy": false,
             "vegetarian": false,
             "price": 27.25,
-            "image": "https://previews.dropbox.com/p/thumb/ABduPWZcZbfvfXlXtL60l9_0W_TevTtOHvgrHVyI2TYpS2mHcbzLZmDZSNx39STXoMgBqZEFJUwxHDnMXGyZi8jOoqP5VUEAfgJalmNFamAHFg4SFSYDpNGyM6UMtQzyf9ebt55sZGFj-5qKLQse9t8EZB5TdvaQTkiy1U-Jq5B1SHhNL14VExSDUK_VGRGbSFzu8JwS3Z75PtjhQ2rzOzMyN0XMNlkFmfrq_jDrJSpZ75ARNHU0Omfij5kKO3Zv3ku3Nsy8QEkLYAhOlTGqLcQan8_Qv_VhKqvmEv9bhsdSv2HJ_kTATWp4I1rMZ0fg9W4Bv2QivaARjXmIq18mFUQi9uZYXKywnEpkP1KyE4I-7b67wBR5vxB5TmPD8FlaSq4/p.png"
+            "image": "https://i.imgur.com/yOe5RtC.png"
         },
         {
             "id": 13,
@@ -206,7 +206,7 @@
             "spicy": true,
             "vegetarian": false,
             "price": 27.25,
-            "image": "https://previews.dropbox.com/p/thumb/ABfEr6roroE4C-q6j3uHnWx1X9uR4EvO4FbDJk_WdcX9HI-TVRBrIwe5ePJZSNSkCZRrYjelHxH0odesxScE6sRtlX-VMhjwLyXX0gvySVvd8L5bTRtIvcv98z5oZ1-g1vvgSpwuPO4egSvbQ_aIQ_jYnDu43BMxuZt1ZtgxuRxSGSUQqF56-uemnf-PU2ivr1CYvFgpcOKO-J5N7pEP5mZt544lN8-7woY4Jylf-kN2R_2hLY027M7oT4yobPV8WJ3gK6eiYKvs_8_wsP0vfqAnNWF3P-oCceHdwN8d-nSc5vss5G_RFAtaKxNXdZr4Akl9Nzcg7VYNTopQw7QQX-KQY0KiinCDu-Zqg-Ytpg8MI2rD9ZDkTGF7DJERQi109DI/p.png"
+            "image": "https://i.imgur.com/ipMA5LP.png"
         },
         {
             "id": 14,
@@ -222,7 +222,7 @@
             "spicy": false,
             "vegetarian": false,
             "price": 27.25,
-            "image": "https://previews.dropbox.com/p/thumb/ABcxD0Q6cTgsQTT1Yig9JlGKsOkok4q4_cENySgL8CyCQ9UdYYxC7quTu1KSRzYV-SSAVoPqeIPMWb4uJk0Yh_NxeBEJZRIek4CNEsAyeyukvPkhyDabZi7nnuhFwkTfNKECL7SrjVfgBSf2HzVGX7e0yH_-ihAODiDSKOnm8vMKwzI0XC0bllJdF5GwMTIZTVZ--av6dGDE_hG92KZWQMKs4ykFSmkwbnKNGITc0EarHjFyTXzCh4dm9B8fVJCZzPekcpFlaxGRnvlI5AwVL9z1XjLDDQUh-Wy7WqsiLnKRaIOlovTE0e5AZdImYahXXra60lqTzlHn3q_mLyPYIlnzN0E3zSQXyIAcGLc0zvH3bZEC-L24zR-YWni_A8uA2kE/p.png"
+            "image": "https://i.imgur.com/E67Xf8Y.png"
         },
         {
             "id": 15,
@@ -239,7 +239,7 @@
             "spicy": true,
             "vegetarian": true,
             "price": 27.25,
-            "image": "https://previews.dropbox.com/p/thumb/ABd74McJe55RGFZqu7-jwlkrSyThXs0lg8mcgUC4OmU-k_nWzo9uwVrYeqJ-peev3kWpnGibOT2NaEnwG2LLe5BAFMUjbHbxN1tQqn-PrZM8LTHWccy5d4LTh8BWcDOoFg1p008FMQA3AGGQNKBVVgwjgLxnVINngDXKLAe8m8v50PEeAJRTdECdfkx1wB1iNQ4rUdKusZ8X35v_moAMX5ZkGLGjnW6zjR4vX3gMinHpdhs-iLuk_LRPIDZaXUc-WBHVZD_KlfuXEy8sGfr2TbKQ9o26Egc_sXsubVjfOXQIpl0JHnfdg0cpz98i5UIn0rz1tAXn5ohysxpThEu-oNP9GsPtWI9KBV0GZjzZyZQ0XRXFgM1wBB84qvNyxNK6d44/p.png"
+            "image": "https://i.imgur.com/v4sa2cA.png"
         },
         {
             "id": 16,
@@ -255,7 +255,7 @@
             "spicy": false,
             "vegetarian": false,
             "price": 30,
-            "image": "https://previews.dropbox.com/p/thumb/ABcYSSK9IRcpGVp4IUDAZKs-oPFUIU0fXYUDpwBSYdv37z4DPa2DzLRw4g8Upzf3HHpKSIEeRVL2I_DJkSyItooHHnbSee-IKwnSBMim1iiHiMNDvVzuALwG7m81hAbFmbyfAODv33Qo4Dr6jkW43a0wTHo1T0PomzGxDs9PiPdiqMUnKSLFkUALOGLZU3ZCnMgEy28SikSFlhY9eWhzHy3EVYr8UnLS6cIR3uAyGFpMEB8yJe6GUAVq7bxXWOq3nhKrACzkNIYC5S2iyu8gEtVbdtPPeyWmq7IFD5gQpQ3soKOT90oJzST_ukJ29_DSOIWm0NC6fNZntjM4hsqldo9CtDxCcMCY_QAVxjQQjwLldEytyfb89PRom5v1LfNXWjg/p.png"
+            "image": "https://i.imgur.com/w5IQ2rX.png"
         },
         {
             "id": 17,
@@ -273,7 +273,7 @@
             "spicy": false,
             "vegetarian": false,
             "price": 28.5,
-            "image": "https://previews.dropbox.com/p/thumb/ABduUIFPYtyId02bu8IvoSrR8OEPkwTlGrbndr4mpbTF0HDVKzyb9e3G9hSOTQ59PatNo-yfqliJ7cEQmZnloL_AtJ7DKkKB5BDB0bxYgOxEkAFmiYASw_7NKZhYFiQ77z8qVPmY0r4Lc_lSzO9nVO5r2jfVV0JzoJwrZ3I30yiVssL7wfeCRbXn33EOOCnGzh2us9Q583-pRvdIcIxrZZaTY-sfxMuCKe6sqS6TL_A34uNluVPZ-IfJDV3lwMdd_Y6bqvGX7BrFwtXoyAXSEznbSCUUNckPmfLdnWEFTwtUsJRBtL7ji_oV-dBdINT-bUpfwMMuxr2NtnqY6u4lMHQ94O_7BtXKJ8KLwmETqJNog0-DqZpcH7_m99o_8DJZ9AE/p.png"
+            "image": "https://i.imgur.com/znqS9KD.png"
         },
         {
             "id": 18,
@@ -291,7 +291,7 @@
             "spicy": true,
             "vegetarian": false,
             "price": 28.5,
-            "image": "https://previews.dropbox.com/p/thumb/ABffZ4pZ2BQV9JUz9ck0XiE3RgzLBOa-v-iPSD31zwXJHLfj4st8nBnqGas7miM476NEOGFLpBvC_oV_yUuJEM_pIbt7H7zg1AhorcmVHAC2hGOVbJtrWATD-Hf1hzF600hjQ8Fh1xpZ4xeuwPLNQ5i5y-Q3i_9sW-3RLALxHYuT_lMglQSdU3rIftJZKjL3wcZDBTdul4zt5kiky6kvj20TpnapEsFaqXQhxds9WKXHd0VcbYPkQ19XDltKxxosfN679A3ORpevi4B8NUYlHjhK1geW8ArK2MRnlWtD84EpvxiHv5McD54MOIV6IMy0_lVIFyYcbEGxRojU8ua0re7R0waGNEzk8JVLFbkiBClhFmPYYejfE3JGv8rMawnucrg/p.png"
+            "image": "https://i.imgur.com/cYpO8RT.png"
         }
     ],
     "pasta": [
@@ -307,7 +307,7 @@
             "spicy": false,
             "vegetarian": false,
             "price": 28.0,
-            "image": "https://previews.dropbox.com/p/thumb/ABcp5-CLLwtbA7Us8PUNnlgHOvYLc3725z-GGppeH8c1XtgJ55wToPzbtjTOpWuYCa-_YNnu6JrLRrRUByIUlPkYjQqHqakdHPQ-3s2yKbBMeeWjpDlxFVEIV0aKQWrsI0MubzY88MbS2Xx_Z6svuUrSgPl1KDEpjggY_ju5Mk5iazoT0SwecPpQEXJ6SIz_D82niT1ENtX-CI5bPtzROq2OfnVLzP0SDDrzW8MQ7-ia_V9qAR-QxkiZ0_ZUrTQF0tBv6xtAiyge2PO8EwKAJLw5LCDAaRqXmHj3TEIbBUPhFOQxBTv7YH9r_B9WcwIb8DBet734Ty4Uq90ZGC0EFAK0_JrJHbpOUEPCfoWzlbd3ddYxvZZWxtO-MfByGUPKgL0/p.png"
+            "image": "https://i.imgur.com/IXDJ52k.png"
         },
         {
             "id": 1,
@@ -321,7 +321,7 @@
             "spicy": false,
             "vegetarian": true,
             "price": 28.0,
-            "image": "https://previews.dropbox.com/p/thumb/ABc7cG64nXzFjSzpdMIWEw0sCjr1JBTd-XR0T3ZvSnSVWhX3i8mHtUQR9c8XiXsj_p7R-aLWjVuVMOTtdPA34zbMEFtgOOf1CredmxdtZlGQ6fOuOMUMko4kDRERsipa_ifCmwobKLKt9V5K1JdUP1nVYP7bWBxkp-8Al-rNoTE11B0Db1l-ZZTg8BuwFnJCjQDiaGTk55OneWuBAFmHV4ibo5772cRVkmz9qaM3EQjWN7P6-6LsMLeBN9SZcpjilJ3Y-3KqhziqqwubKKFqlUtNrh3OCafwLwEdaLMpXKFLGjCT-HmaJNUxOEOjxUz7T3v2Umjc3alb8Qp0OcUs3D4d8-0oDaMoYDX27LBSpFUTM8L5jnl3-VH0qRNdVHgjk5o/p.png"
+            "image": "https://i.imgur.com/3jKSuUu.png"
         }
     ],
     "salads": [
@@ -341,7 +341,7 @@
             "spicy": false,
             "vegetarian": false,
             "price": 20,
-            "image": "https://previews.dropbox.com/p/thumb/ABeeMskd6ekCojMa2YoYCnkEak_UmEO9zZjx9yJ3TayPart8EchGbeWEfqz8VbWNip5Tt8U02Gvgp1275sPA0cOuEPFGXscs7Z5tLhh2NNwUXinPoN0I2WZErPlklXsBCteL8KkkBqJ8SnQXtOUqHpfV83eEXjIkAKXIbS9YJdQXuMh18Ucx4w-LZxMu7rTIZw7VhH3W4G5LpcDtretUwGcG0YcRcbOCz7N0BD5huL_4CrpiFb7msTc2JCNSJFL6YPU5ZQzRQ9DmLWtW94re5JVAcYmlcQ2-wKu04AgVHryCC7CZ5FcLWtOKYEdTa5l1NSrPxgJJUoAsfY5WnPAfxyWopc1NRIBU9BfBJ3663TC7BjTytFNXv7qiH-Dg908CTxI/p.png"
+            "image": "https://i.imgur.com/gMq1r49.png"
         },
         {
             "id": 1,
@@ -361,7 +361,7 @@
             "spicy": false,
             "vegetarian": true,
             "price": 20,
-            "image": "https://previews.dropbox.com/p/thumb/ABeMflxCj3u1vq7eAYz4mIcT8WDQx2jEZWN9xttGoN9Dh4vlqCJM9BkukmY_2SPXUDTwOh-FMJSgtXw-kSGBz72kVyIbRpbrOXDNwm3IZSOsJLcTHvX4pRihrkLhSsdNFVvE7C_Y7fd4WHzi6WI-or1rZGb4V72VCa3MytI-T1y_L_-G5Zi1Gb_Wh_JQ5hhaN_GZjrQ8-KC82cX1evkekH-8aOSiLseSN4IPbGy0Q-Ei30_wMlOmpV6RvxjGkNRqonBktdnMOl6ggqqP4lYTWlUOYQ-ctzCNkfTsGYd8aMAC_nzRTDzPDo6q1hK5JjiwL9hSxWue_5xsBGWa4CjHZuRCFAXJAJB6TwQeMy_C6io5sepfUWs2lZ3qWPT2FZCz5g0/p.png"
+            "image": "https://i.imgur.com/MvzXO2b.png"
         },
         {
             "id": 2,
@@ -379,7 +379,7 @@
             "spicy": false,
             "vegetarian": false,
             "price": 20,
-            "image": "https://previews.dropbox.com/p/thumb/ABf2BBA-I5HEW7Qa5lCJjOkw7aA9dqoW2KjuqQ-V7-aM3ZO6fjmihrvtQR_FglGy-NAl9SSY35QjcbhYdR-fiCzkUqCcdym1EitwRixVqc1g8k80_ES2w07M0wpgmuz217IiYNgG9i130JYtZoBkmj1p-P_j1AhwjVj5N05X-FWG2OoxFjTpJmf9WDTuuWZ8eupin0c7LijrHDDI7DtOLjzjtbUQL8caHvjZBPF_Maw24CvYcdviV2US3gNHZJihywFzoDqGLyie43J47oPM4qWKMzoOnXRz-LVG58P-WIgcLwcXtc8Lh2LHFHCPgOj_P7EEO6MUJ0J51a3q_43bd5g4nU666LrnlcJfjx9NgrV7bZcX94BjMQ0fElLHLkFg9wA/p.png"
+            "image": "https://i.imgur.com/Ph0IjrX.png"
         }
     ],
     "dessert": [
@@ -388,28 +388,28 @@
             "name": "Brownie",
             "description": "O prajitura delicioasa cu ciocolata si alune",
             "price": 15,
-            "image": "https://previews.dropbox.com/p/thumb/ABfr942kygVAZdtEhQuwbT7OCPZsj8ibdHc6iohwFbMKr9tQSGaS3Xfh-IuaST-DC_sVu8CsOLJ21W6b6PpqR7Pnhbaq4qCAUg_kn01gXbkSJWqVxWHlnmQBiCibADpbRROra6msOL576ueZLaKA7DPyM5UebgfsNUe_-GfFcfWh3138Writzwy6RDqOX2eR9raZOOT5DQU7TMwgwqRFvq_pfsWMLhQMnk0_gxz-vScWyECBJmd_lUdAJpIWkcAxSuOlE74zD_Yd5YqJDsDBGe98ve9XW22IDStbS3OwrB23pvT6fYNamYCPcChfTHfBXcQqDkauw2YIHOEPo1m25OUFsdTX6DFx-_HQV9qmvuDEgcinuyXMo3EzgLE_Nv2w_5s/p.png"
+            "image": "https://i.imgur.com/7WbfaDN.png"
         },
         {
             "id": 1,
             "name": "Chocolate Tortilla",
             "description": "Tortilla umpluta cu crema de ciocolata",
             "price": 12,
-            "image": "https://previews.dropbox.com/p/thumb/ABdWjyJ9vqisdlncNYP9Usaie_2pLhbQkARWVTL_F0d34bvkry_3yCsHNr5qFtLVodOYV8VB8zSyB6yC8lmPxe5DB1oYwe9pQx15USj2ehDIlZ3glbAHvbLIOMf8m9FXGO4uA7IcJoRUin0K9VjuxR5gWebKkt8gju6zz5gDogm_pemUrwP_hJxIZTL7Qo7yFMYNeWhff4FbqfAQRwKvUlufYZa26eiLGh929-7BoeNy70s7y0wGLhyJr1MYNn0pOqRVAWXGiJe-TDefLdXFNaX7SD5Vxo3oaGT6OPKTaDpCMcZpzFOAVoaYRTw36Wy1LlOEiMZxV0HxDefIMdjHpN7_HoXsosZKTqHnqjbl2RIKSKCM_YxWbXHVzd-L_oBTCao/p.png"
+            "image": "https://i.imgur.com/Mgsc3IZ.png"
         },
         {
             "id": 2,
             "name": "Apple Pie",
             "description": "Placinta calda cu mar si scortisoara",
             "price": 15,
-            "image": "https://previews.dropbox.com/p/thumb/ABfFlhG-naGSj54qHYGOp4jIELvZUluDJfupEf0yn2Nk5FA5ca33e3ez4-TGLoI1ccIwg5sr0wr6ygPr3LrS1G3j55qX8aoW16B_2ATNu5fXjAOnOmTDHTGRLz3ANRJ2mXIzjkHNJRtXdoFOpgG0Nl-aLSDFJzVpulI3I90PU2Iyahuk3XOwUZ1KCoKTGnsUCEqIgc6vs4j6dJIeNojexc8sD0bHjqok-dimfw8WtrOpI6TD2QxVwfuqFchNYhWNAvpMAR4eEO4NZYs_33SjB2ilT13EtC9vfbl6rDamnhO-DE-MCeVE1IsMHLs5yuxhsGRcwGbXeONASu4avCkEva2_ipKYK4CqtkTjaiNiVzwziJr4etzlbEkJ8o7vcM4iCAg/p.png"
+            "image": "https://i.imgur.com/0TR7L5X.png"
         },
         {
             "id": 3,
             "name": "Cheesecake",
             "description": "Cheesecake cu topping de fructe de padure",
             "price": 15,
-            "image": "https://previews.dropbox.com/p/thumb/ABcCbJzXM-62uhizTQmhhrugTRP236vA1hiQkK9VwvGa2yZCsTpRF_1swHFOYr4YQwAQBsCaNZWEZVjyx7MHKfYeTkAoCH0k3IpNbJwSJYF7H_NdPr5HtqVBoqF8lV-L47sUc19nmSvfN7TlImZqksGwB-Gmd2lf51uyfwY7rWlTGuc3zd77pTWCIFSDbCmworHL6WRGdH5rXjwXY43-nDiwSbyAUfa22UI8njc9FUdMf2JlUNlt6cLk6qqXVy3CFQJl7NXjcX5a3O1oZRDcWt3msN_NOELap18FDy3xae2V765_qnWZ60Ror9gIWDmKLEQxK1AcZOW2PJnWchU_uxUk2Ooqi7JSsGCJOESmFkAIZfOMNE3_6rGVzJXWFpm3LeM/p.png"
+            "image": "https://i.imgur.com/AsldA7x.png"
         }
     ],
     "drinks": [
@@ -418,92 +418,99 @@
             "name": "Coca Cola",
             "description": "Coca Cola 330ml",
             "price": 5,
-            "image": "https://previews.dropbox.com/p/thumb/ABeCRE84VZzGuJleeIAN3_OZAuFqfUgJDEP4g_-PrO8WZ4VGGMQKGv0YaEblfM1Gwl6mc9CDtjmAenNFZSnZT-v00ZMh7Q6bNzZfLrhV4w0dSYHCGjFtwNo7c88cjAX3bqCADLqzjf8cL8INCVI3PUN9LJBdSkUiKiSsH8SCYhizhVnzNGEbAB9BN9-BqFfhd5R-b5Av_iO24EnomMZfLQueRsOAIg76_3oWEvjEG8-vq9qwESXWj-YwnYfc7ThxreraHcB-3Bww-Q1eLKYmsqOWGmFaVy0NhiMNKwrLrjJuvpZljlabbdQlxh03M8M_G4nJ8tpx57-9vAJQiFmKfAhM3PhyndKbrtvnkOH5DdDuYZeGCbR8JtCwukov-o948cQ/p.png"
+            "image": "https://i.imgur.com/nJ6LeWv.png"
         },
         {
             "id": 1,
             "name": "Fanta",
             "description": "Fanta 330ml",
             "price": 5,
-            "image": "https://previews.dropbox.com/p/thumb/ABcLmyiSR615OtBog1Prr9ACDsnnqDqeXwFAoT5RU-7GKfQkvouDMTIWXESJSTQrqPsY_K2zmX-LTdrNfHo67jauHD_J1w_XEKSlLsAL9K6zzwli__tmePbXeCL-gOZ_jME60nFC8NhhDNK9j7FnvPIIuZPqbUlNe4agk-jFKttKaFY-a1QcdOPHF26U8gNQHUeJQOUshnxmMvZQc25WW8pw5OWJ6mp0wTB9mx3CfJ5pwqlgtMtrq9astx4vB26sNlIF_R7lWLOUi51iGjFkJw79WCReei3Yftoa9_fmi6b8_lp-33tlzH_FJgfonJ11LaK21R-buci3BiJ2h7FF6RkG3LyY3a3vDZp7_N8x87MtpauMLErrgkZYMhLzKi5T064/p.png"
+            "image": "https://i.imgur.com/MxgtPze.png"
         },
         {
             "id": 2,
             "name": "Sprite",
             "description": "Sprite 330ml",
             "price": 5,
-            "image": "https://previews.dropbox.com/p/thumb/ABd-fRam4-eH5OqDht0TOQ3AZ9AjFbwnkIVNUvxai9DMd2JW-Qo8TvUMQ7Gn0MW-pw6iKfdgutJHdTlmTNU5W0Xq8DQaHit-RiEHO1DWGHCGoARcq9CdFtv2vlnAL66_U-dZJivZL-vjE4_xiBgFBRCYIlVbTJObY-1J4-VC_L69XC-rBZBICdCuETcndgPqhUAntJCcvCaZwhMofneH_3DLEkPoCGkUR18YupEve-VlhQGK3AXh7pPJ5D8CCr1Jp1h2cqjm6iY0EhSd7Py5qEUJ4XbJCRvBTSLcXr5aahS2zlpcH8HZrkUQIhUCdNYz40teVxZckpHKT9utsNdBFcxcL_ubakJdgETbMyvpqCBYHJqJwon10mLGBnfMWET11tc/p.jpeg?size=2048x1536&size_mode=3"
+            "image": "https://i.imgur.com/qP4Nx1x.jpg"
         },
         {
             "id": 3,
             "name": "Apa plata",
             "description": "Dorna 0.5L",
             "price": 4.5,
-            "image": "https://previews.dropbox.com/p/thumb/ABeA7n5ttdOo3_RKoZCiPIxUW_mGLir-CHoYpTI5H-blOTCRc52a_PAoPiRhIsC_kYItbuYSwdtg4fm25MNJX-wCUl9YJqHonyq2TqLGddC9htbPN9irA6tjC31QLjCU74MiAD123WeDD9rv1cMCokPI1Anky3t1iwyMOYRNOOBUDn_EcVTs2G1imysRiEe6hWn7cCvemNi6QCFPl-p8UP-nR84oAxVMA3ZvmuPs7Wd03u1LSiRPYrEpkW66Ch_9KGerb_1QO8uaLSfsgEAFbE8r3cRrqHyXkSBkd5-sLkKUcR6fSsifw5jzQEYosqahsOYn_1MkKZSwmdXxbQ2hxSE0qXBQfFWrQWPowJtNnf4T9TWxuCUSCfw8BR-iNVQs_bY/p.jpeg?size=2048x1536&size_mode=3"
+            "image": "https://i.imgur.com/yYuuaL1.jpg"
         },
         {
             "id": 4,
             "name": "Apa minerala",
             "description": "Dorna 0.5L",
             "price": 4.5,
-            "image": "https://previews.dropbox.com/p/thumb/ABePtRhuA9iY_E2sgc9fqStSuRNU9N3i0LYhJLlVDcTxysIGKSI1hukF3YfF-k72GvJIuvrpAMvDGrN1E_gxb3jjepYYk-C2bkXVOoLwcvbovpmCPuZatiXdFuVrRw-HoDv7yjajYMyRiOzd7pFD9AzB-hr-AGW5zii9ZGSQeJmzhj5mYktIsc_F9nUg60iTHmuCLogqubFw8R4aAYQt3UcvJYWaB2PizXNWyv9149y3c9Qk5xi9t6w7DYFeRLxpsPCPeqbU7gYcVYaxE_LFeISnayyFI9Zhr4L_bOXxjQlhMNGu11BQa-RbY0U1qTG1JjGeoHGbfyFovo2mSkcOo8-rjRKbxq93E5Be7eShge9wq29RT8_NnfkajJMmzQE6lHE/p.jpeg"
+            "image": "https://i.imgur.com/0nyJk19.jpg"
         },
         {
             "id": 5,
             "name": "Fuzetea",
             "description": "Fuzetea 0.5L Piersica sau Lamaie",
             "price": 5,
-            "image": "https://previews.dropbox.com/p/thumb/ABdKSjq5dsI5k6JgRpAux7aTK5Prq-zZqByS5cWjL0Xy1SB2J1KFfkYBjZVypivwwduUivK_wNbhJCwR8jKyrMbQZB3p-Hls8BNPVph2c0eVEGRDYlyocZaeH-V9gOMSkaRvgYpvJBxmFnFV9S9gG2J0458jNLGvG7RxX4fpzKIZCV82N1_siBODDvyb9qPPWhbNeti_RdvPckCSjYjXZa1yOeHsk-rOlQ6MdRpphIxH-Td8J9XPzMinoFwdB3H0Q7SjqSeEVxvs3iZnnY_B-fAcUJrcb7MhwwVEBslfpZR3m1KsIOMPqjjcs05Rpbeh3RnuQ9A5Jvy6wd3Boiv44DbsljmD2UAbjBoV-J_NiI5ee_paiACMHfiIGUaK8oTd7qw/p.jpeg"
+            "image": "https://i.imgur.com/dsHumXE.jpg"
         }
     ],
     "sauces": [
         {
             "id": 0,
             "name": "BBQ",
-            "description": "https://previews.dropbox.com/p/thumb/ABdPDH2f69s-ZN3FY3_v8Nxb_P3rYvQfK-DO7jGFuI09gROyJIeNnEbNRnLsC0VuCWh3bQpDY0dF8m5-oz3-p5FUXde-IamyAhbzvW-ZN6RwZ5oiRN3dvSAOG4CLohCqneQvfCX_rdFPgOuEqvv0iCpsUDWOnq8ILeamLW1ebid0VfhFaJ-ZP_Xa2REY8F4ul-IitnOPJjWgWrycdjbBqnXgZnwdizOsqvD-SMUcRbhkv03JbRF7TIIKOxnbCXAM_7gpUbQzsaFBZzwgZS54HWJdAzNhSMMCbyYONj4dbfElh2hnffUff21Eghwyz7InNI5jy6htM-CbuHmWdq4-elDykvjn5ZvyCd6rcqhELOE3RvfELoDk2pFKdAWgF9Z8mvE/p.png",
-            "price": 4
+            "description": "",
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
         },
         {
             "id": 1,
             "name": "Pizza",
-            "description": "https://previews.dropbox.com/p/thumb/ABdPDH2f69s-ZN3FY3_v8Nxb_P3rYvQfK-DO7jGFuI09gROyJIeNnEbNRnLsC0VuCWh3bQpDY0dF8m5-oz3-p5FUXde-IamyAhbzvW-ZN6RwZ5oiRN3dvSAOG4CLohCqneQvfCX_rdFPgOuEqvv0iCpsUDWOnq8ILeamLW1ebid0VfhFaJ-ZP_Xa2REY8F4ul-IitnOPJjWgWrycdjbBqnXgZnwdizOsqvD-SMUcRbhkv03JbRF7TIIKOxnbCXAM_7gpUbQzsaFBZzwgZS54HWJdAzNhSMMCbyYONj4dbfElh2hnffUff21Eghwyz7InNI5jy6htM-CbuHmWdq4-elDykvjn5ZvyCd6rcqhELOE3RvfELoDk2pFKdAWgF9Z8mvE/p.png",
-            "price": 4
+            "description": "",
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
         },
         {
             "id": 2,
             "name": "Salsa",
-            "description": "https://previews.dropbox.com/p/thumb/ABdPDH2f69s-ZN3FY3_v8Nxb_P3rYvQfK-DO7jGFuI09gROyJIeNnEbNRnLsC0VuCWh3bQpDY0dF8m5-oz3-p5FUXde-IamyAhbzvW-ZN6RwZ5oiRN3dvSAOG4CLohCqneQvfCX_rdFPgOuEqvv0iCpsUDWOnq8ILeamLW1ebid0VfhFaJ-ZP_Xa2REY8F4ul-IitnOPJjWgWrycdjbBqnXgZnwdizOsqvD-SMUcRbhkv03JbRF7TIIKOxnbCXAM_7gpUbQzsaFBZzwgZS54HWJdAzNhSMMCbyYONj4dbfElh2hnffUff21Eghwyz7InNI5jy6htM-CbuHmWdq4-elDykvjn5ZvyCd6rcqhELOE3RvfELoDk2pFKdAWgF9Z8mvE/p.png",
-            "price": 4
+            "description": "",
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
         },
         {
             "id": 3,
             "name": "Sweet Chilli",
-            "description": "https://previews.dropbox.com/p/thumb/ABdPDH2f69s-ZN3FY3_v8Nxb_P3rYvQfK-DO7jGFuI09gROyJIeNnEbNRnLsC0VuCWh3bQpDY0dF8m5-oz3-p5FUXde-IamyAhbzvW-ZN6RwZ5oiRN3dvSAOG4CLohCqneQvfCX_rdFPgOuEqvv0iCpsUDWOnq8ILeamLW1ebid0VfhFaJ-ZP_Xa2REY8F4ul-IitnOPJjWgWrycdjbBqnXgZnwdizOsqvD-SMUcRbhkv03JbRF7TIIKOxnbCXAM_7gpUbQzsaFBZzwgZS54HWJdAzNhSMMCbyYONj4dbfElh2hnffUff21Eghwyz7InNI5jy6htM-CbuHmWdq4-elDykvjn5ZvyCd6rcqhELOE3RvfELoDk2pFKdAWgF9Z8mvE/p.png",
-            "price": 4
+            "description": "",
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
         },
         {
             "id": 4,
             "name": "Iute cu TABASCO",
-            "description": "https://previews.dropbox.com/p/thumb/ABdPDH2f69s-ZN3FY3_v8Nxb_P3rYvQfK-DO7jGFuI09gROyJIeNnEbNRnLsC0VuCWh3bQpDY0dF8m5-oz3-p5FUXde-IamyAhbzvW-ZN6RwZ5oiRN3dvSAOG4CLohCqneQvfCX_rdFPgOuEqvv0iCpsUDWOnq8ILeamLW1ebid0VfhFaJ-ZP_Xa2REY8F4ul-IitnOPJjWgWrycdjbBqnXgZnwdizOsqvD-SMUcRbhkv03JbRF7TIIKOxnbCXAM_7gpUbQzsaFBZzwgZS54HWJdAzNhSMMCbyYONj4dbfElh2hnffUff21Eghwyz7InNI5jy6htM-CbuHmWdq4-elDykvjn5ZvyCd6rcqhELOE3RvfELoDk2pFKdAWgF9Z8mvE/p.png",
-            "price": 4
+            "description": "",
+            "price": 4,
+            "image": "https://i.imgur.com/k5Dg7hZ.png"
         },
         {
             "id": 5,
             "name": "Maioneza",
-            "description": "https://previews.dropbox.com/p/thumb/ABdpfhXiBw7RSj-I27_MfD_9U5ietrecr-fE-RfTRoj7VYsXhE-hYaR-4LB95D4riQNfOp8xCjHZtc12H9YRph_E4uhjjOCWZIeLI58MrGhwU5dPt48HNzO1jb_sErSjebSdcYXxRHWZZ9x1lHHTu1xdFr-X7eHXVlYvpbXyq4kqVjNPhyYpWCvS39UNCc8ceIu2mAnQzIHor6hBQCESj2QRAtqTAigq3gFmS9Xkw9VO3ZwaQoLw6tHkoZlCTHWUCB2xiH9PBdUjhDGpmhGTxPoxbUZjZsGCx211vGDCp_jyNe8Oo9Y9iWpIsqaH3yu_90ZXQzG6TaaKDbKyFw_ep8QYZPsBidCpr9TP-VawNfdk1ruG9nHEq2YEEhuSodeJPE4/p.png",
-            "price": 4
+            "description": "",
+            "price": 4,
+            "image": "https://i.imgur.com/OmejA2J.png"
         },
         {
             "id": 6,
             "name": "Ketchup",
-            "description": "",
+            "description": "https://i.imgur.com/k5Dg7hZ.png",
             "price": 4
         },
         {
             "id": 7,
             "name": "Usturoi",
-            "description": "https://previews.dropbox.com/p/thumb/ABdpfhXiBw7RSj-I27_MfD_9U5ietrecr-fE-RfTRoj7VYsXhE-hYaR-4LB95D4riQNfOp8xCjHZtc12H9YRph_E4uhjjOCWZIeLI58MrGhwU5dPt48HNzO1jb_sErSjebSdcYXxRHWZZ9x1lHHTu1xdFr-X7eHXVlYvpbXyq4kqVjNPhyYpWCvS39UNCc8ceIu2mAnQzIHor6hBQCESj2QRAtqTAigq3gFmS9Xkw9VO3ZwaQoLw6tHkoZlCTHWUCB2xiH9PBdUjhDGpmhGTxPoxbUZjZsGCx211vGDCp_jyNe8Oo9Y9iWpIsqaH3yu_90ZXQzG6TaaKDbKyFw_ep8QYZPsBidCpr9TP-VawNfdk1ruG9nHEq2YEEhuSodeJPE4/p.png",
-            "price": 4
+            "description": "",
+            "price": 4,
+            "image": "https://i.imgur.com/OmejA2J.png"
         }
     ],
     "sides": [
@@ -512,21 +519,21 @@
             "name": "Wedges",
             "description": "Cartofi copti, usor picanti",
             "price": 6,
-            "image": "https://previews.dropbox.com/p/thumb/ABdRUDggXTM1BPXxzd1Ojjbxzu5lVkqK38U-zWcmitjctQu0gg77zn9vtLdagynViM-cgiye_KvVnJJ9PhVcyYNkm7H2XDSFlPQL5O_Zv1poMzru6CBulKDmtjS4IND_V7SPbo_6-wLh6NIMkyijefP9coP7yTiwXotqzFg2v9tPw6ehXkgW1vqH3PMTSGWiNgqBVq62VJ0pMuajqHg07zCBYMTD_jKmIKcvg4DgTUv7FC4AZ53uoikhTKTX6SgsKbJj140FxHzKR6RzcOh5lK3pN2-WL2zBA-CX8chJLS9PBA_CsRmQw9OLe9IrrQEODUuUUera_gG-VIY2YFQhk9NDE9rdEBPB9h7UT99NgMz_Dbu_mQ8w_dJzYkbcDq1xhGI/p.png?size=2048x1536&size_mode=3"
+            "image": "https://i.imgur.com/sxP6sJt.png"
         },
         {
             "id": 1,
             "name": "Onion rings",
             "description": "Rondele de ceapa prajite",
             "price": 6,
-            "image": "https://previews.dropbox.com/p/thumb/ABeBmtsQD2Xdc7uMFpKBx0m5gkEBv2mcbDM5pByI-fzxFXmbp0YjZV_mEupCkBNzucBQP0dJeangnmoQpTzug5cjIlfonBiSpP0w2ya_r-2f9le3qpA-EWdVrIYa0yz9Vk_4t0fskh7WO7cRqrCOhLPANOFMua9R7XNO9skjvyhRXtOnKrCd-y0-daQHNgD_eDGxXLNPPW-Gku4lwprcdn-OfW-R46XNpMljrLO97lw9NHwrTE6Ca9S6jL87LoakS4Tw6i1HWVZFCk4cvOMMxGzKmZF4WZ9bWuMPhyZio3fGLkL28cpa2ds8vTVW6hdxtChBcf2Nep4Ofkfq7SewXCLIw52H1Sgxr7FRj5bz7Qti3ro-6hkQeIq000tezbZLTmQ/p.png"
+            "image": "https://i.imgur.com/HNX30U9.png"
         },
         {
             "id": 2,
             "name": "Coleslaw",
             "description": "Salata de varza, morcov si dressing",
             "price": 10,
-            "image": "https://previews.dropbox.com/p/thumb/ABee_gCtBoOcUkE12Mx-_-A_ez_gtbeOOVbekf09eKhveppP-A6UJ0H51eLwOL2FA-9JOlJSLuoJCcq7f_j0ujAkeVvjDReYZsG5jI-s2BvoVX8W0QYzWxpXIAQVFJmoRAdyRROfS0rMk-qMcKAbJf4wwDeOuD8N4BZl6whQnWECjeVLPIHLHvMtGCa8FvXO7E4Ynts5Lu0Cv-X1QsqdCn4byRxWZI6VPK5BpyRDCfQZ9S2y3WNT2U4dfOnak2UlYzumEFuHtHXWTEnYfmIwSB_FfcvvGx6TNhowhiQNvSJcn-FVzU3JSO7mAkYgSSL9dwfaPPJiO4uX0dFM5-cql8andfZqiuig2C3hN-QtXW-XbQMIqz_Z6brcHeJYC9xXO8M/p.png"
+            "image": "https://i.imgur.com/i3Jintb.png"
         }
     ]
 }
