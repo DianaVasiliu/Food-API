@@ -183,7 +183,7 @@
                 "ciuperci",
                 "masline"
             ],
-            "spicy": true,
+            "spicy": false,
             "vegetarian": false,
             "price": 27.25,
             "image": "https://i.imgur.com/k6IGrUd.png"
@@ -363,7 +363,7 @@
             "spicy": false,
             "vegetarian": false,
             "price": 20,
-            "image": "https://i.imgur.com/gMq1r49.png"
+            "image": "https://i.imgur.com/QWXH2NC.png"
         },
         {
             "id": 1,
@@ -384,7 +384,7 @@
             "spicy": false,
             "vegetarian": true,
             "price": 20,
-            "image": "https://i.imgur.com/MvzXO2b.png"
+            "image": "https://i.imgur.com/qChqf83.png"
         },
         {
             "id": 2,
@@ -435,7 +435,7 @@
             "spicy": false,
             "vegetarian": true,
             "price": 15,
-            "image": "https://i.imgur.com/0TR7L5X.png"
+            "image": "https://i.imgur.com/OWIVhWX.png"
         },
         {
             "id": 3,
@@ -467,7 +467,7 @@
             "spicy": false,
             "vegetarian": false,
             "price": 5,
-            "image": "https://i.imgur.com/MxgtPze.png"
+            "image": "https://i.imgur.com/1WDkfme.png"
         },
         {
             "id": 2,
@@ -611,7 +611,7 @@
             "spicy": false,
             "vegetarian": true,
             "price": 6,
-            "image": "https://i.imgur.com/HNX30U9.png"
+            "image": "https://i.imgur.com/i3Jintb.png"
         },
         {
             "id": 2,
@@ -621,7 +621,7 @@
             "spicy": false,
             "vegetarian": false,
             "price": 10,
-            "image": "https://i.imgur.com/i3Jintb.png"
+            "image": "https://i.imgur.com/HNX30U9.png"
         }
     ]
 }
