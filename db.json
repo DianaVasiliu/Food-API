@@ -536,7 +536,7 @@
             "name": "Salsa",
             "description": "",
             "ingredients": [],
-            "spicy": false,
+            "spicy": true,
             "vegetarian": false,
             "price": 4,
             "image": "https://i.imgur.com/k5Dg7hZ.png"
@@ -556,7 +556,7 @@
             "name": "Iute cu TABASCO",
             "description": "",
             "ingredients": [],
-            "spicy": false,
+            "spicy": true,
             "vegetarian": false,
             "price": 4,
             "image": "https://i.imgur.com/k5Dg7hZ.png"
