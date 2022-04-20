@@ -4,7 +4,7 @@
             "id": 0,
             "name": "Margherita",
             "description": "",
-            "ingredients": ["sos de rosii", "mozzarella"],
+            "ingredients": ["tomato sauce", "mozzarella"],
             "spicy": false,
             "vegetarian": true,
             "price": 17.0,
@@ -14,7 +14,7 @@
             "id": 1,
             "name": "Pepperoni",
             "description": "",
-            "ingredients": ["sos de rosii", "mozzarella", "dublu pepperoni"],
+            "ingredients": ["tomato sauce", "mozzarella", "double pepperoni"],
             "spicy": false,
             "vegetarian": false,
             "price": 20.0,
@@ -25,11 +25,11 @@
             "name": "Rome",
             "description": "",
             "ingredients": [
-                "sos de rosii",
+                "tomato sauce",
                 "mozzarella",
-                "sunca",
-                "ciuperci",
-                "cubulete de vita"
+                "ham",
+                "mushrooms",
+                "beef cubes"
             ],
             "spicy": false,
             "vegetarian": false,
@@ -41,14 +41,14 @@
             "name": "American Spicy",
             "description": "",
             "ingredients": [
-                "sos de rosii",
+                "tomato sauce",
                 "mozzarella",
                 "pepperoni",
-                "rosii",
-                "ardei gras",
-                "ceapa rosie",
+                "tomatoes",
+                "green pepper",
+                "red onion",
                 "jalapenos",
-                "sos Samourai"
+                "Samourai sauce"
             ],
             "spicy": true,
             "vegetarian": false,
@@ -60,12 +60,12 @@
             "name": "Quattro Stagioni",
             "description": "",
             "ingredients": [
-                "sos de rosii",
+                "tomato sauce",
                 "mozzarella",
-                "sunca",
+                "ham",
                 "pepperoni",
-                "ciuperci",
-                "ardei gras"
+                "mushrooms",
+                "green pepper"
             ],
             "spicy": false,
             "vegetarian": false,
@@ -77,12 +77,12 @@
             "name": "Pork & Feta",
             "description": "",
             "ingredients": [
-                "sos de rosii",
+                "tomato sauce",
                 "mozzarella",
-                "branza feta",
-                "sunca",
-                "cubulete de porc",
-                "ceapa rosie"
+                "feta cheese",
+                "ham",
+                "pork cubes",
+                "red onion"
             ],
             "spicy": false,
             "vegetarian": false,
@@ -95,7 +95,7 @@
             "description": "",
             "ingredients": [
                 "mozzarella",
-                "branza cheddar",
+                "cheddar cheese",
                 "emmentaler",
                 "blue cheese",
                 "oregano"
@@ -110,10 +110,10 @@
             "name": "Carnivora",
             "description": "",
             "ingredients": [
-                "sos de rosii",
+                "tomato sauce",
                 "mozzarella",
-                "piept de pui",
-                "cubulete de vita",
+                "chicken breast",
+                "beef cubes",
                 "pepperoni",
                 "bacon"
             ],
@@ -127,12 +127,12 @@
             "name": "Louisiana Chicken",
             "description": "",
             "ingredients": [
-                "pui marinat",
-                "sos iute cu TABASCO",
-                "sos de ardei rosu",
+                "marinated chicken",
+                "TABASCO spicy sauce",
+                "red pepper sauce",
                 "blue cheese",
-                "ardei gras",
-                "ceapa rosie"
+                "green pepper",
+                "red onion"
             ],
             "spicy": true,
             "vegetarian": false,
@@ -144,11 +144,11 @@
             "name": "Honey Mustard Chicken",
             "description": "",
             "ingredients": [
-                "sos de rosii",
+                "tomato sauce",
                 "mozzarella",
-                "pui marinat in sos Honey Mustard",
-                "branza cheddar",
-                "ceapa rosie"
+                "marinated chicken in Honey Mustard sauce",
+                "cheddar cheese",
+                "red onion"
             ],
             "spicy": false,
             "vegetarian": false,
@@ -161,11 +161,11 @@
             "description": "",
             "ingredients": [
                 "mozzarella",
-                "sos sweet chilli",
+                "sweet chilli sauce",
                 "pepperoni",
-                "ananas",
+                "pineapple",
                 "jalapenos",
-                "ceapa rosie"
+                "red onion"
             ],
             "spicy": true,
             "vegetarian": false,
@@ -177,11 +177,11 @@
             "name": "Classic",
             "description": "",
             "ingredients": [
-                "sos rosii",
+                "tomato sauce",
                 "mozzarella",
-                "sunca",
-                "ciuperci",
-                "masline"
+                "ham",
+                "mushrooms",
+                "olives"
             ],
             "spicy": false,
             "vegetarian": false,
@@ -193,12 +193,12 @@
             "name": "Pastrami",
             "description": "",
             "ingredients": [
-                "sos de rosii",
+                "tomato sauce",
                 "mozzarella",
-                "pastrama",
-                "telemea",
-                "ardei copt",
-                "ceapa rosie"
+                "pastrami",
+                "salty cheese",
+                "baked green pepper",
+                "red onion"
             ],
             "spicy": false,
             "vegetarian": false,
@@ -210,12 +210,12 @@
             "name": "Hot Pastrami",
             "description": "",
             "ingredients": [
-                "sos Honey Mustard",
+                "Honey Mustard sauce",
                 "mozzarella",
-                "pastrama",
-                "carnaciori",
-                "ardei iute",
-                "ceapa rosie"
+                "pastrami",
+                "sausages",
+                "chilli pepper",
+                "red onion"
             ],
             "spicy": true,
             "vegetarian": false,
@@ -227,12 +227,12 @@
             "name": "Country",
             "description": "",
             "ingredients": [
-                "sos de rosii",
+                "tomato sauce",
                 "mozzarella",
                 "bacon",
-                "porumb",
-                "ceapa",
-                "ciuperci"
+                "corn",
+                "onion",
+                "mushrooms"
             ],
             "spicy": false,
             "vegetarian": false,
@@ -244,12 +244,12 @@
             "name": "Hot Cheese",
             "description": "",
             "ingredients": [
-                "sos de rosii",
+                "tomato sauce",
                 "mozzarella",
-                "branza cheddar",
-                "telemea",
-                "rosii",
-                "ardei iute",
+                "cheddar cheese",
+                "salty cheese",
+                "tomatoes",
+                "chilli pepper",
                 "oregano"
             ],
             "spicy": true,
@@ -262,12 +262,12 @@
             "name": "Ocean",
             "description": "",
             "ingredients": [
-                "sos de rosii",
+                "tomato sauce",
                 "mozzarella",
-                "ton",
-                "porumb",
-                "ceapa",
-                "masline"
+                "tuna",
+                "corn",
+                "onion",
+                "olives"
             ],
             "spicy": false,
             "vegetarian": false,
@@ -279,14 +279,14 @@
             "name": "BBQ",
             "description": "",
             "ingredients": [
-                "sos de rosii",
+                "tomato sauce",
                 "mozzarella",
-                "sos BBQ",
-                "ceapa",
-                "porumb",
+                "BBQ sauce",
+                "onion",
+                "corn",
                 "bacon",
-                "ciuperci",
-                "carnaciori"
+                "mushrooms",
+                "sausages"
             ],
             "spicy": false,
             "vegetarian": false,
@@ -298,12 +298,12 @@
             "name": "Mexicana",
             "description": "",
             "ingredients": [
-                "sos de rosii",
+                "tomato sauce",
                 "mozzarella",
-                "sos salsa",
+                "salsa sauce",
                 "pepperoni",
-                "porumb",
-                "ceapa",
+                "corn",
+                "onion",
                 "jalapenos",
                 "tortilla chips"
             ],
@@ -318,12 +318,7 @@
             "id": 0,
             "name": "Bolognese",
             "description": "",
-            "ingredients": [
-                "penne",
-                "sos ragu",
-                "cubulete de vita",
-                "mozzarella"
-            ],
+            "ingredients": ["penne", "ragu sauce", "beef cubes", "mozzarella"],
             "spicy": false,
             "vegetarian": false,
             "price": 28.0,
@@ -335,9 +330,9 @@
             "description": "",
             "ingredients": [
                 "penne",
-                "sos alb de smantana si usturoi",
+                "white cream and garlic sauce",
                 "bacon",
-                "parmezan"
+                "parmesan"
             ],
             "spicy": false,
             "vegetarian": true,
@@ -351,14 +346,14 @@
             "name": "Caesar",
             "description": "",
             "ingredients": [
-                "piept de pui",
+                "chicken breast",
                 "bacon",
-                "parmezan",
-                "rosii cherry",
-                "crutoane",
-                "salata",
-                "sfecla rosie",
-                "sos la alegere"
+                "parmesan",
+                "cherry tomatoes",
+                "croutons",
+                "lettuce",
+                "beetroot",
+                "sauce of your choice"
             ],
             "spicy": false,
             "vegetarian": false,
@@ -367,19 +362,19 @@
         },
         {
             "id": 1,
-            "name": "Greceasca",
+            "name": "Greek",
             "description": "",
             "ingredients": [
-                "branza feta",
-                "masline verzi",
-                "rosii cherry",
-                "castraveti",
-                "ceapa rosie",
-                "ardei capia",
+                "feta cheese",
+                "green olives",
+                "cherry tomatoes",
+                "cucumbers",
+                "red onion",
+                "red pepper",
                 "oregano",
-                "salata",
-                "sfecla rosie",
-                "sos la alegere"
+                "lettuce",
+                "beetroot",
+                "sauce of your choice"
             ],
             "spicy": false,
             "vegetarian": true,
@@ -391,14 +386,14 @@
             "name": "Tuna",
             "description": "",
             "ingredients": [
-                "ton",
-                "masline verzi",
-                "porumb",
-                "ardei capia",
-                "ceapa rosie",
-                "salata",
-                "sfecla rosie",
-                "sos la alegere"
+                "tuna",
+                "green olives",
+                "corn",
+                "red pepper",
+                "red onion",
+                "lettuce",
+                "beetroot",
+                "sauce of your choice"
             ],
             "spicy": false,
             "vegetarian": false,
@@ -410,7 +405,7 @@
         {
             "id": 0,
             "name": "Brownie",
-            "description": "O prajitura delicioasa cu ciocolata si alune",
+            "description": "A delicious cake with chocolate and hazelnuts",
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -420,7 +415,7 @@
         {
             "id": 1,
             "name": "Chocolate Tortilla",
-            "description": "Tortilla umpluta cu crema de ciocolata",
+            "description": "Tortilla filled with chocolate cream",
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -430,7 +425,7 @@
         {
             "id": 2,
             "name": "Apple Pie",
-            "description": "Placinta calda cu mar si scortisoara",
+            "description": "Hot pie with apple and cinnamon",
             "ingredients": [],
             "spicy": false,
             "vegetarian": true,
@@ -440,7 +435,7 @@
         {
             "id": 3,
             "name": "Cheesecake",
-            "description": "Cheesecake cu topping de fructe de padure",
+            "description": "Cheesecake with berries topping",
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -481,7 +476,7 @@
         },
         {
             "id": 3,
-            "name": "Apa plata",
+            "name": "Water",
             "description": "Dorna 0.5L",
             "ingredients": [],
             "spicy": false,
@@ -491,7 +486,7 @@
         },
         {
             "id": 4,
-            "name": "Apa minerala",
+            "name": "Sparkling water",
             "description": "Dorna 0.5L",
             "ingredients": [],
             "spicy": false,
@@ -502,7 +497,7 @@
         {
             "id": 5,
             "name": "Fuzetea",
-            "description": "Fuzetea 0.5L Piersica sau Lamaie",
+            "description": "Fuzetea 0.5L Peach or Lemon",
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
@@ -553,7 +548,7 @@
         },
         {
             "id": 4,
-            "name": "Iute cu TABASCO",
+            "name": "Spicy TABASCO",
             "description": "",
             "ingredients": [],
             "spicy": true,
@@ -563,7 +558,7 @@
         },
         {
             "id": 5,
-            "name": "Maioneza",
+            "name": "Mayonnaise",
             "description": "",
             "ingredients": [],
             "spicy": false,
@@ -583,7 +578,7 @@
         },
         {
             "id": 7,
-            "name": "Usturoi",
+            "name": "Garlic sauce",
             "description": "",
             "ingredients": [],
             "spicy": false,
@@ -596,7 +591,7 @@
         {
             "id": 0,
             "name": "Wedges",
-            "description": "Cartofi copti, usor picanti",
+            "description": "Baked potatoes, slightly spicy",
             "ingredients": [],
             "spicy": false,
             "vegetarian": true,
@@ -606,7 +601,7 @@
         {
             "id": 1,
             "name": "Onion rings",
-            "description": "Rondele de ceapa prajite",
+            "description": "Fried onion rings",
             "ingredients": [],
             "spicy": false,
             "vegetarian": true,
@@ -616,7 +611,7 @@
         {
             "id": 2,
             "name": "Coleslaw",
-            "description": "Salata de varza, morcov si dressing",
+            "description": "Cabbage salad, carrots and dressing",
             "ingredients": [],
             "spicy": false,
             "vegetarian": false,
